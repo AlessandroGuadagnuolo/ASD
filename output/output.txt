@@ -1,0 +1,4 @@
+Nodo 1|Distanza 0|Parent -1
+Nodo 2|Distanza 1|Parent 1
+Nodo 3|Distanza 1|Parent 1
+Nodo 4|Distanza 2|Parent 3

@@ -1,0 +1,5 @@
+Nodo 0|Colore 2|Tempo di scoperta 1|Tempo di completamento 2|Parent -1
+Nodo 4|Colore 2|Tempo di scoperta 6|Tempo di completamento 7|Parent 3
+Nodo 3|Colore 2|Tempo di scoperta 5|Tempo di completamento 8|Parent 2
+Nodo 2|Colore 2|Tempo di scoperta 4|Tempo di completamento 9|Parent 1
+Nodo 1|Colore 2|Tempo di scoperta 3|Tempo di completamento 10|Parent -1
