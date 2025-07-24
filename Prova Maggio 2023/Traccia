@@ -1,0 +1,19 @@
+Traccia:
+
+Usando il paradigma della programmazione ad oggetti ed linguaggio C++ 11
+progettare ed implementare una classe grafo che consenta di caricare dati di un
+grafo non orientato pesato G contenuti nel file GRP.txt 
+II file testo contiene nel
+primo rigo due interi separati da uno spazio che indicano, rispettivamente, il
+numero di nodi ed il numero di archi.
+I successivi righi contengono ciascuno tre numeri, separati da uno spazio, per
+indicare il nodo sorgente, nodo destinazione ed il peso di ogni arco.
+
+- Dotare la classe di un metodo BFS(s) che scrive nel file OUT.txt, per ogni nodo, la distanza
+dal nodo s ed il proprio predecessore. (pt. 18)
+
+- Dotare la classe dei metodi PRIM() e PRINT_MST() per calcolare e stampare a video
+il minimum spanning tree. (pt. 6)
+
+- Dotare la classe del metodo IS_BINARY(MST) che restituisca TRUE se MST è un
+albero binario e FALSE altrimenti. (pt. 6)
