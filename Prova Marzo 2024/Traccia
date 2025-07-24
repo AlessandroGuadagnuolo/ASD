@@ -1,0 +1,18 @@
+Traccia:
+
+Utilizzando il paradigma della programmazione ad oggetti ed il linguaggio C++ 11,
+progettare ed implementare, come classe, una struttura dati grafo che consenta
+di caricare i dati di un grafo orientato pesato G contenuti nel file GRP.txt. 
+Il file di testo contiene nel primo rigo due interi separatí da uno spazio che indicano,
+rispettivamente, il numero di nodi ed il numero di archi. I successivi righi
+contengono ciascuno tre numeri, separati da uno spazio, per indicare il nodo
+sorgente, il nodo destinazione ed il peso di ogni arco. 
+
+- Dotare la classe di un metodo per scrivere nel file OUT.txt l’output dell'ordinamento topologico dei nodi
+del grafo G. (pt. 18)
+
+- Implementare l'algoritmo di Bellman-Ford che, dati in input un nodo sorgente S
+ ed ununnododestinazione D. restituisca il cammino di peso minimo tra S e D.(pt. 6)
+
+- Implementare un algoritmo ricorsivo che stampi a video i nodi di ogni ciclo
+ presente in G (usare una nuova linea per ogni ciclo). (pt. 6)
