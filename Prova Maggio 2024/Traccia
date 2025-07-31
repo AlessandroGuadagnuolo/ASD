@@ -1,0 +1,17 @@
+Traccia:
+
+Utilizzando il paradigma della programmazione ad oggetti ed il linguaggio
+C++ 11, progettare ed implementare, come classe, una struttura dati albero binario
+di ricerca che consenta di caricare le coppie chiave carattere contenute nel file
+ABR.txt secondo l'ordine anticipato (PREORDER).
+
+- Dotare la classe di un metodo per scrivere nel file OUT.txt l'output della visita preorder dell'albero precedentemente
+creato. (pt. 18)
+
+- Considerando l'albero come un albero di Human (in cui * equivale al carattere nullo),
+implementare un metodo che riceva in input una stringa di caratteri
+maiuscoli e restituisca in output la stringa codificata con caratteri [0,1]. (pt. 6)
+
+- Considerando l'albero come un albero di Human (in cui * equivale al carattere
+nullo), implementare un metodo che riceva in input una stringa codificata con
+caratteri (0, 1) e restituisca in output la stringa decodificata.
