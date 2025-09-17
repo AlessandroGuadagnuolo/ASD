@@ -1,0 +1,15 @@
+Traccia:
+
+Utilizzando il paradigma della programmazione ad oggetti ed il linguaggio C++ 11,
+progettare ed implementare, come classe, una struttura dati albero binario di
+ricerca che consenta di caricare le coppie chiave-valore contenute nel file ABR.txt
+secondo l'ordine anticipato (preorder). Dotare la classe di un metodo che, dato un
+nodo Xcomeinput, scriva nel file OUT.txt la coppia <chiave, valore> del
+successore di X.
+
+- Aggiungere alla classe un metodo LeftRotate che esegua una rotazione a sinistra
+ (LR) su un nodo X, e visualizzare a schermo l'albero prima e dopo l'esecuzione del
+ metodo.
+
+- Aggiungere alla classe un metodo Transplant e visualizzare l'albero prima e dopo
+ l'esecuzione del metodo.
